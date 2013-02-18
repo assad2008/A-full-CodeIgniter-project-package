@@ -78,7 +78,7 @@ $config['directory_trigger']	= 'd'; // experimental not currently in use
 $config['log_threshold'] = 1;
 $config['log_path'] = BASEDIRS . './data/log/';
 $config['log_date_format'] = 'Y-m-d H:i:s';
-$config['cache_path'] = BASEDIRS . './data/cache/';
+$config['cache_path'] = BASEDIRS . './data/caches/';
 $config['encryption_key'] = 'qingzaizhelipeizhi';
 
 /*
